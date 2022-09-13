@@ -56,6 +56,14 @@ const Home = () => {
          <img src={Twitter} alt="twitter" />
        </a>
      </div>
+
+    <div className={style.projects}>
+      <div className={style.projects__background}></div>
+
+      <h2>Projects</h2>
+      <p>I believe that the best manner to learn is through practice.  In this section, I present my personal projects and talk a bit about how I work and my main interests. </p>
+    
+    </div>
      </>
    
   );
